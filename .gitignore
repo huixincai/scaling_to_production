@@ -9,6 +9,7 @@
 05_src/data/prices/*
 05_src/data/temp/*
 05_src/data/zipped/*
+05_src/data/fires/*
 05_src/db/postgres_data/*
 07_logs/*
 **/07_logs/*
